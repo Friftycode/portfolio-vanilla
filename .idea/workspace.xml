@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc8efb9b-8965-40b4-9714-def427ead30d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/arthur-square.1654x1654.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bouldering.3038x2279.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/email-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/food-baguette.4000x3000.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/github-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/linkedin-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/peak.2560x1440.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-repo-aksel.891x649.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/om.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/cv.arthur-leonard-thomassen.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="32sRSL6QPyhleQ4h4zvqSd4hGig" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{}</component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="portfolio-vanilla" />
@@ -104,5 +146,27 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc8efb9b-8965-40b4-9714-def427ead30d" name="Changes" comment="" />
+      <created>1758207294066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758207294066</updated>
+      <workItem from="1758207294931" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
