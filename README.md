@@ -2,6 +2,9 @@
 
 Dette er en enkel porteføljeside laget med **HTML**, **CSS** og **JavaScript**, helt uten rammeverk. Siden presenterer meg som utvikler, min erfaring, utdanning, prosjekter og hobbyer.
 
+![Website Screenshot](./assets/screenshot-website.2494x1181.webp)
+
+
 ## Innhold
 
 - **Forside**: Kort introduksjon og kontaktinformasjon.
